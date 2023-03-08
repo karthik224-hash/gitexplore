@@ -4,3 +4,4 @@
 node_modules/
 assests/videos/
 *.mp4
+*.php
