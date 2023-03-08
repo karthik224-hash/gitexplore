@@ -1,0 +1,6 @@
+#this is a comment
+
+*.js
+node_modules/
+assests/videos/
+*.mp4
